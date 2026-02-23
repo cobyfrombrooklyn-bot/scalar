@@ -1,5 +1,28 @@
 # @scalar/agent-chat
 
+## 0.5.17
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.34.3**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/components@0.19.9**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
+- **@scalar/api-client@2.29.3**
+  - [#8225](https://github.com/scalar/scalar/pull/8225): fix: selecting multiply security schemes doesn't render Markdown in descriptions
+  - [#8227](https://github.com/scalar/scalar/pull/8227): fix: remove unnecessary property truncation in example generation
+
+- **@scalar/json-magic@0.11.5**
+
+- **@scalar/types@0.6.7**
+
 ## 0.5.16
 
 ### Patch Changes

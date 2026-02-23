@@ -1,5 +1,14 @@
 # @scalar/use-codemirror
 
+## 0.13.44
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/components@0.19.9**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
 ## 0.13.43
 
 ### Patch Changes

@@ -1,5 +1,23 @@
 # @scalar/components
 
+## 0.19.9
+
+### Patch Changes
+
+- [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
+#### Updated Dependencies
+
+- **@scalar/oas-utils@0.6.47**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+  - [#8227](https://github.com/scalar/scalar/pull/8227): fix: remove unnecessary property truncation in example generation
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/code-highlight@0.2.4**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
 ## 0.19.8
 
 ### Patch Changes

@@ -1,5 +1,45 @@
 # @scalar/api-client
 
+## 2.29.3
+
+### Patch Changes
+
+- [#8225](https://github.com/scalar/scalar/pull/8225): fix: selecting multiply security schemes doesn't render Markdown in descriptions
+- [#8227](https://github.com/scalar/scalar/pull/8227): fix: remove unnecessary property truncation in example generation
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.34.3**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/oas-utils@0.6.47**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+  - [#8227](https://github.com/scalar/scalar/pull/8227): fix: remove unnecessary property truncation in example generation
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/components@0.19.9**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
+- **@scalar/sidebar@0.7.40**
+
+- **@scalar/import@0.4.53**
+
+- **@scalar/json-magic@0.11.5**
+
+- **@scalar/object-utils@1.2.30**
+
+- **@scalar/openapi-parser@0.24.14**
+
+- **@scalar/postman-to-openapi@0.4.8**
+
+- **@scalar/types@0.6.7**
+
+- **@scalar/use-codemirror@0.13.44**
+
+- **@scalar/snippetz@0.6.16**
+
 ## 2.29.2
 
 ### Patch Changes

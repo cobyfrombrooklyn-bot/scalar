@@ -1,5 +1,17 @@
 # @scalar/api-reference-react
 
+## 0.8.63
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/api-reference@1.44.26**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
+- **@scalar/types@0.6.7**
+
 ## 0.8.62
 
 ### Patch Changes

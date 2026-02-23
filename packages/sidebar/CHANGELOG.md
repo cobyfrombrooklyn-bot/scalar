@@ -1,5 +1,20 @@
 # @scalar/sidebar
 
+## 0.7.40
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.34.3**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/components@0.19.9**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
 ## 0.7.39
 
 ### Patch Changes

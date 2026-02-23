@@ -1,5 +1,26 @@
 # @scalar/oas-utils
 
+## 0.6.47
+
+### Patch Changes
+
+- [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+- [#8227](https://github.com/scalar/scalar/pull/8227): fix: remove unnecessary property truncation in example generation
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.34.3**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/json-magic@0.11.5**
+
+- **@scalar/object-utils@1.2.30**
+
+- **@scalar/types@0.6.7**
+
 ## 0.6.46
 
 ### Patch Changes

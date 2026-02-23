@@ -1,5 +1,29 @@
 # @scalar/workspace-store
 
+## 0.34.3
+
+### Patch Changes
+
+- [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+#### Updated Dependencies
+
+- **@scalar/helpers@0.2.16**
+  - [#8233](https://github.com/scalar/scalar/pull/8233): fix: local storage migration script
+
+- **@scalar/code-highlight@0.2.4**
+  - [#8226](https://github.com/scalar/scalar/pull/8226): feat: slugs for headings with nested content
+
+- **@scalar/json-magic@0.11.5**
+
+- **@scalar/object-utils@1.2.30**
+
+- **@scalar/types@0.6.7**
+
+- **@scalar/openapi-upgrader@0.1.8**
+
+- **@scalar/snippetz@0.6.16**
+
 ## 0.34.2
 
 ### Patch Changes
